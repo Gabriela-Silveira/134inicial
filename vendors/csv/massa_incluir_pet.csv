@@ -1,0 +1,6 @@
+pet_id, category_id,category_name,pet_name,tags_id
+4031234,1,cachorro,Jujuba,1,vacinado,avaible
+4034321,1,cachorro,Polly,1,vacinado,pending
+4035055,2,gato,Atena,1,castrado,
+4035432,3,peixe,Dory,registradom avaiable
+
